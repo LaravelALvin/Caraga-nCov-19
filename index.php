@@ -21,7 +21,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1.0">
-		<title>Caraga-covid19</title>
+		<title>Caraga Region Covid19</title>
 		<link rel="stylesheet" type="text/css" href="css/mainstyle.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 		<link rel="stylesheet" href="leaflet/leaflet.css">
